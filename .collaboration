@@ -302,16 +302,4 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "KQSAYGBG"
-}, {
-  "moduleType" : "static-resource",
-  "moduleName" : "文件/JS文件1.js",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:13:02.1916053Z",
-  "resourcePaths" : [ "documents/static-resource/文件/JS文件1.js.json", "documents/static-resource/文件/JS文件1.js.metadata.json", "documents/static-resource/文件/JS文件1.js.refId.json", "documents/ref-object/C57OTP52.json", "documents/ref-object/C57OTP52.metadata.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "C57OTP52"
 } ]

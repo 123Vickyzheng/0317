@@ -1,0 +1,165 @@
+{
+  "id" : "JOIE8FG4",
+  "name" : "创建0317_1",
+  "variables" : [ ],
+  "parameters" : [ {
+    "id" : "YA505W50",
+    "name" : "实体",
+    "dataType" : {
+      "typeId" : "ODAMCUFF"
+    }
+  } ],
+  "returnValues" : [ {
+    "id" : "Z5CXFOK9",
+    "name" : "返回值",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "allowExpressionCall" : false,
+  "enableTransaction" : true,
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "SKTIT5KP",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 30,
+          "y" : 216
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "X2UGZE5R",
+      "name" : "创建0317_1",
+      "pluginName" : "logic-data-operation",
+      "identifier" : "data-insert",
+      "content" : {
+        "entityType" : {
+          "typeId" : "ODAMCUFF"
+        },
+        "variable" : {
+          "type" : "variable",
+          "variable" : "YA505W50"
+        },
+        "returnTo" : {
+          "type" : "variable",
+          "variable" : "Z5CXFOK9"
+        },
+        "propertyMappers" : [ {
+          "id" : "64b414e4-39ee-441a-b84d-cc2063a29ee6",
+          "target" : {
+            "type" : "literal",
+            "literal" : "N9NTFAJ1"
+          },
+          "source" : {
+            "type" : "expression",
+            "expression" : "YA505W50.N9NTFAJ1"
+          }
+        }, {
+          "id" : "dd91b23c-192f-41df-be18-54b2e352ae3c",
+          "target" : {
+            "type" : "literal",
+            "literal" : "VE33F1G4"
+          },
+          "source" : {
+            "type" : "expression",
+            "expression" : "YA505W50.VE33F1G4"
+          }
+        }, {
+          "id" : "071fdf7c-c6db-48d8-a654-93295581967a",
+          "target" : {
+            "type" : "literal",
+            "literal" : "RHIRX0YD"
+          },
+          "source" : {
+            "type" : "expression",
+            "expression" : "YA505W50.RHIRX0YD"
+          }
+        }, {
+          "id" : "073c4773-35bc-404f-988a-4731d8f7b256",
+          "target" : {
+            "type" : "literal",
+            "literal" : "H0EGVXZV"
+          },
+          "source" : {
+            "type" : "expression",
+            "expression" : "YA505W50.H0EGVXZV"
+          }
+        }, {
+          "id" : "212f5df7-6dd1-4d6a-90ed-9a876703d928",
+          "target" : {
+            "type" : "literal",
+            "literal" : "K3BCHKNE"
+          },
+          "source" : {
+            "type" : "expression",
+            "expression" : "YA505W50.K3BCHKNE"
+          }
+        }, {
+          "id" : "5506b4d4-2e46-4c5e-b945-930c87f430a8",
+          "target" : {
+            "type" : "literal",
+            "literal" : "NKHS1VTV"
+          },
+          "source" : {
+            "type" : "expression",
+            "expression" : "YA505W50.NKHS1VTV"
+          }
+        }, {
+          "id" : "1e364b0f-f258-4876-89c0-9ccd72215bf9",
+          "target" : {
+            "type" : "literal",
+            "literal" : "C5SWOPE8"
+          },
+          "source" : {
+            "type" : "expression",
+            "expression" : "YA505W50.C5SWOPE8"
+          }
+        }, {
+          "id" : "13f36e15-e70c-42ce-921b-cfae6501087c",
+          "target" : {
+            "type" : "literal",
+            "literal" : "ORY7UGAI"
+          },
+          "source" : {
+            "type" : "expression",
+            "expression" : "YA505W50.ORY7UGAI"
+          }
+        } ]
+      },
+      "attributes" : {
+        "position" : {
+          "x" : 122,
+          "y" : 216
+        }
+      }
+    }, {
+      "id" : "J3VSN73Q",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 382,
+          "y" : 216
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "H02U6SCI",
+      "sourceId" : "SKTIT5KP",
+      "targetId" : "X2UGZE5R",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    }, {
+      "id" : "VR1P6815",
+      "sourceId" : "X2UGZE5R",
+      "targetId" : "J3VSN73Q",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  }
+}

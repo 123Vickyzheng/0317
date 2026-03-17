@@ -1,0 +1,21 @@
+{
+  "id" : "JXXAR33P",
+  "name" : "删除0317_1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "BRJDSZ2N",
+    "name" : "主键",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "IRG49478",
+    "name" : "返回值",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ]
+}

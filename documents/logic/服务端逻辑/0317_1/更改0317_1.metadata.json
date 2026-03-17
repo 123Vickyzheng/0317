@@ -1,0 +1,31 @@
+{
+  "id" : "O8OWNEDY",
+  "name" : "更改0317_1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "W3L49666",
+    "name" : "实体",
+    "dataType" : {
+      "typeId" : "ODAMCUFF"
+    }
+  }, {
+    "id" : "Q4GJZ00D",
+    "name" : "参数1",
+    "dataType" : {
+      "typeId" : "List",
+      "genericTypes" : [ {
+        "typeId" : "ODAMCUFF"
+      } ]
+    },
+    "isRequired" : true
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "PPDQJMT6",
+    "name" : "返回值",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ]
+}

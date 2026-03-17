@@ -1,0 +1,9 @@
+{
+  "id" : "MUC3OGES",
+  "name" : "test",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ ]
+}

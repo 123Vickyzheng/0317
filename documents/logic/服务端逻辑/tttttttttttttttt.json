@@ -1,0 +1,44 @@
+{
+  "id" : "VG46YVXI",
+  "name" : "tttttttttttttttt",
+  "variables" : [ ],
+  "parameters" : [ ],
+  "returnValues" : [ ],
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "UDDPH90V",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 80,
+          "y" : 200
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "DFVEVF3X",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 800,
+          "y" : 200
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "E1VQD8NF",
+      "sourceId" : "UDDPH90V",
+      "sourceAnchorId" : null,
+      "targetId" : "DFVEVF3X",
+      "targetAnchorId" : null,
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  }
+}

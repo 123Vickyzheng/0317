@@ -1,0 +1,21 @@
+{
+  "id" : "JOIE8FG4",
+  "name" : "创建0317_1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "YA505W50",
+    "name" : "实体",
+    "dataType" : {
+      "typeId" : "ODAMCUFF"
+    }
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "Z5CXFOK9",
+    "name" : "返回值",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ]
+}

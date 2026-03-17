@@ -1,0 +1,96 @@
+{
+  "id" : "JXXAR33P",
+  "name" : "删除0317_1",
+  "variables" : [ ],
+  "parameters" : [ {
+    "id" : "BRJDSZ2N",
+    "name" : "主键",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "returnValues" : [ {
+    "id" : "IRG49478",
+    "name" : "返回值",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "allowExpressionCall" : false,
+  "enableTransaction" : true,
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "HIFP6OYP",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 30,
+          "y" : 216
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "MSUZQEY6",
+      "name" : "删除0317_1",
+      "pluginName" : "logic-data-operation",
+      "identifier" : "data-delete",
+      "content" : {
+        "entityType" : {
+          "typeId" : "ODAMCUFF"
+        },
+        "condition" : {
+          "conditionType" : 0,
+          "conditionItems" : [ {
+            "conditionType" : 2,
+            "conditionItems" : null,
+            "type" : 3,
+            "identifier" : "ODAMCUFF.ORY7UGAI",
+            "name" : "id",
+            "operator" : 0,
+            "value" : {
+              "type" : 6,
+              "identifier" : "BRJDSZ2N",
+              "name" : null
+            }
+          } ]
+        },
+        "returnTo" : {
+          "type" : "variable",
+          "variable" : "IRG49478"
+        }
+      },
+      "attributes" : {
+        "position" : {
+          "x" : 122,
+          "y" : 216
+        }
+      }
+    }, {
+      "id" : "LIO587L7",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 382,
+          "y" : 216
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "T4E1KSPV",
+      "sourceId" : "HIFP6OYP",
+      "targetId" : "MSUZQEY6",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    }, {
+      "id" : "VRD1XIYQ",
+      "sourceId" : "MSUZQEY6",
+      "targetId" : "LIO587L7",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  }
+}

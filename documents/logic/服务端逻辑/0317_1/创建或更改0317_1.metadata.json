@@ -1,0 +1,15 @@
+{
+  "id" : "P08JXWVI",
+  "name" : "创建或更改0317_1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "CUWXEL2M",
+    "name" : "实体",
+    "dataType" : {
+      "typeId" : "ODAMCUFF"
+    }
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ ]
+}

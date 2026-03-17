@@ -1,0 +1,21 @@
+{
+  "id" : "X0HVTST4",
+  "name" : "查询0317_1详情",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "QR6CU1VG",
+    "name" : "主键",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "OG9M2OO7",
+    "name" : "返回值",
+    "dataType" : {
+      "typeId" : "ODAMCUFF"
+    }
+  } ]
+}

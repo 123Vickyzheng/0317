@@ -1,0 +1,187 @@
+{
+  "id" : "Z09FW3C3",
+  "name" : "查询0317_1",
+  "variables" : [ ],
+  "parameters" : [ {
+    "id" : "L59YX2CL",
+    "name" : "每页条数",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  }, {
+    "id" : "GBG7RLPA",
+    "name" : "跳过条数",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "returnValues" : [ {
+    "id" : "O7B75SEB",
+    "name" : "数据列表",
+    "dataType" : {
+      "typeId" : "List",
+      "genericTypes" : [ {
+        "typeId" : "ODAMCUFF"
+      } ]
+    }
+  }, {
+    "id" : "YU8XO5ML",
+    "name" : "数据总行数",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "allowExpressionCall" : false,
+  "enableTransaction" : true,
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "Y5SR0KES",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 30,
+          "y" : 216
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "WFG6W11E",
+      "name" : "查询0317_1",
+      "pluginName" : "logic-data-operation",
+      "identifier" : "data-query",
+      "content" : {
+        "model" : {
+          "table" : {
+            "entityId" : "ODAMCUFF",
+            "tableAlias" : "0317_1",
+            "dataSourceId" : "Z7Y83Z25",
+            "schema" : "dbo",
+            "columns" : [ {
+              "id" : "F7S9M6KJ",
+              "columnId" : "ORY7UGAI"
+            }, {
+              "id" : "O5FWZ7SD",
+              "columnId" : "N9NTFAJ1"
+            }, {
+              "id" : "GX3QUYNA",
+              "columnId" : "VE33F1G4"
+            }, {
+              "id" : "V8T8XG66",
+              "columnId" : "RHIRX0YD"
+            }, {
+              "id" : "Y0X6J9KD",
+              "columnId" : "H0EGVXZV"
+            }, {
+              "id" : "DPHP263Q",
+              "columnId" : "K3BCHKNE"
+            }, {
+              "id" : "H06JW210",
+              "columnId" : "NKHS1VTV"
+            }, {
+              "id" : "OHH0O8VF",
+              "columnId" : "C5SWOPE8"
+            }, {
+              "id" : "H0MRB5L5",
+              "columnId" : "Y4BNFTRT"
+            }, {
+              "id" : "XHL3PU6O",
+              "columnId" : "TOFLG65H"
+            }, {
+              "id" : "ZAD7K251",
+              "columnId" : "G5HKPNUM"
+            }, {
+              "id" : "U5FJJ1N7",
+              "columnId" : "WYBPOGMM"
+            } ]
+          },
+          "condition" : {
+            "conditionType" : 0,
+            "conditionItems" : [ ]
+          },
+          "groupBy" : null,
+          "orderBy" : {
+            "identifiers" : [ {
+              "id" : "DBCDYMIS",
+              "columnIdentifier" : {
+                "type" : 3,
+                "identifier" : "ODAMCUFF.ORY7UGAI",
+                "name" : null
+              },
+              "orderIdentifier" : {
+                "type" : 6,
+                "identifier" : "MKJRE5LE.OKJUY1IK",
+                "name" : null
+              }
+            } ]
+          },
+          "pagination" : {
+            "limit" : {
+              "type" : "variable",
+              "variable" : "L59YX2CL"
+            },
+            "offset" : {
+              "type" : "variable",
+              "variable" : "GBG7RLPA"
+            }
+          },
+          "extra" : null,
+          "deletedTableConfigs" : null
+        },
+        "property" : {
+          "queryMode" : 0,
+          "typeMode" : "specific",
+          "specificType" : {
+            "typeId" : "List",
+            "genericTypes" : [ {
+              "typeId" : "ODAMCUFF"
+            } ]
+          },
+          "returnTo" : {
+            "type" : "variable",
+            "variable" : "O7B75SEB"
+          },
+          "returnCountTo" : {
+            "type" : "variable",
+            "variable" : "YU8XO5ML"
+          }
+        }
+      },
+      "attributes" : {
+        "position" : {
+          "x" : 122,
+          "y" : 216
+        }
+      }
+    }, {
+      "id" : "SBI80INH",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 382,
+          "y" : 216
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "TTLLK8XM",
+      "sourceId" : "Y5SR0KES",
+      "sourceAnchorId" : null,
+      "targetId" : "WFG6W11E",
+      "targetAnchorId" : null,
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    }, {
+      "id" : "RYACTC5L",
+      "sourceId" : "WFG6W11E",
+      "sourceAnchorId" : null,
+      "targetId" : "SBI80INH",
+      "targetAnchorId" : null,
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  }
+}

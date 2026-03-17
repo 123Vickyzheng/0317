@@ -147,13 +147,25 @@
   "originalPath" : "/默认数据源/实体1",
   "indexes" : [ {
     "indexName" : "sqlite_autoindex_实体1_1",
-    "isUnique" : true,
-    "isPrimary" : true,
-    "isUnEditable" : true,
-    "description" : "主键索引",
     "indexColumns" : [ {
       "columnId" : "RZN0VCC8",
       "order" : "ASC"
-    } ]
+    } ],
+    "isUnique" : true,
+    "isPrimary" : true,
+    "isUnEditable" : true,
+    "description" : ""
+  }, {
+    "indexName" : "idx_实体1_1",
+    "indexColumns" : [ {
+      "columnId" : "SFVUIMRC",
+      "order" : "ASC"
+    }, {
+      "columnId" : "MISCXPKV",
+      "order" : "ASC"
+    } ],
+    "isUnique" : false,
+    "isPrimary" : false,
+    "isUnEditable" : false
   } ]
 }

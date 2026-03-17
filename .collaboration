@@ -172,13 +172,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:02:49.1869632Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JSKQNV3O.json", "documents/ref-object/JSKQNV3O.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JSKQNV3O",
   "exclusiveType" : "YYODPQDH"
@@ -329,39 +323,21 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:03:51.9055868Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体2.json", "documents/entity/默认数据源/实体2.metadata.json", "documents/entity/默认数据源/实体2.refId.json", "documents/ref-object/H6XVEQT0.json", "documents/ref-object/H6XVEQT0.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "H6XVEQT0",
   "exclusiveType" : "YYODPQDH"
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体3",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:04:00.2953717Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体3.json", "documents/entity/默认数据源/实体3.metadata.json", "documents/entity/默认数据源/实体3.refId.json", "documents/ref-object/RNB1UOA8.json", "documents/ref-object/RNB1UOA8.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "RNB1UOA8",
   "exclusiveType" : "YYODPQDH"
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体4",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:04:08.5261738Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体4.json", "documents/entity/默认数据源/实体4.metadata.json", "documents/entity/默认数据源/实体4.refId.json", "documents/ref-object/FR761FQA.json", "documents/ref-object/FR761FQA.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "FR761FQA",
   "exclusiveType" : "YYODPQDH"

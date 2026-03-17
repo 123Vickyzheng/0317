@@ -1,0 +1,14 @@
+{
+  "id" : "KDTEW4YM",
+  "name" : "实体3_id_实体4_id",
+  "type" : "ManyToOne",
+  "dataSourceId" : "YYODPQDH",
+  "sourceEntityId" : "RNB1UOA8",
+  "sourceColumnId" : "ZNNJI2F0",
+  "sourceNavigationName" : "实体4",
+  "sourceNavigationColumnId" : "ZT27QXLK",
+  "targetEntityId" : "FR761FQA",
+  "targetColumnId" : "BWA4KA0U",
+  "targetNavigationName" : "实体3",
+  "targetNavigationColumnId" : "ORDHT00Y"
+}

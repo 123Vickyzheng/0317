@@ -1,0 +1,14 @@
+{
+  "id" : "LO3ODUIO",
+  "name" : "new",
+  "type" : "ManyToOne",
+  "dataSourceId" : "YYODPQDH",
+  "sourceEntityId" : "JSKQNV3O",
+  "sourceColumnId" : "RZN0VCC8",
+  "sourceNavigationName" : "实体2",
+  "sourceNavigationColumnId" : "FQVX25Z6",
+  "targetEntityId" : "H6XVEQT0",
+  "targetColumnId" : "T4PYUNQD",
+  "targetNavigationName" : "实体1",
+  "targetNavigationColumnId" : "GDDRX7TJ"
+}

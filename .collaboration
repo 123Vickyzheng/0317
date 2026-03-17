@@ -395,4 +395,88 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "ZRMQGCIK"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0317_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1", "documents/logic/服务端逻辑/0317_1/.f.metadata.json", "documents/logic/服务端逻辑/0317_1/.f.json", "documents/ref-object/PW5FCTF1.json", "documents/ref-object/PW5FCTF1.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "PW5FCTF1"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0317_1/创建0317_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/创建0317_1.json", "documents/logic/服务端逻辑/0317_1/创建0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/创建0317_1.refId.json", "documents/ref-object/JOIE8FG4.json", "documents/ref-object/JOIE8FG4.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "JOIE8FG4"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0317_1/创建或更改0317_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/创建或更改0317_1.json", "documents/logic/服务端逻辑/0317_1/创建或更改0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/创建或更改0317_1.refId.json", "documents/ref-object/P08JXWVI.json", "documents/ref-object/P08JXWVI.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "P08JXWVI"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0317_1/更改0317_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/更改0317_1.json", "documents/logic/服务端逻辑/0317_1/更改0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/更改0317_1.refId.json", "documents/ref-object/O8OWNEDY.json", "documents/ref-object/O8OWNEDY.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "O8OWNEDY"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0317_1/删除0317_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/删除0317_1.json", "documents/logic/服务端逻辑/0317_1/删除0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/删除0317_1.refId.json", "documents/ref-object/JXXAR33P.json", "documents/ref-object/JXXAR33P.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "JXXAR33P"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0317_1/查询0317_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/查询0317_1.json", "documents/logic/服务端逻辑/0317_1/查询0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/查询0317_1.refId.json", "documents/ref-object/Z09FW3C3.json", "documents/ref-object/Z09FW3C3.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Z09FW3C3"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0317_1/查询0317_1详情",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/查询0317_1详情.json", "documents/logic/服务端逻辑/0317_1/查询0317_1详情.metadata.json", "documents/logic/服务端逻辑/0317_1/查询0317_1详情.refId.json", "documents/ref-object/X0HVTST4.json", "documents/ref-object/X0HVTST4.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "X0HVTST4"
 } ]

@@ -485,4 +485,16 @@
   "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/查询0317_1详情.json", "documents/logic/服务端逻辑/0317_1/查询0317_1详情.metadata.json", "documents/logic/服务端逻辑/0317_1/查询0317_1详情.refId.json", "documents/ref-object/X0HVTST4.json", "documents/ref-object/X0HVTST4.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "X0HVTST4"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/test",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T10:44:07.4735837Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/test.json", "documents/logic/服务端逻辑/test.metadata.json", "documents/logic/服务端逻辑/test.refId.json", "documents/ref-object/MUC3OGES.json", "documents/ref-object/MUC3OGES.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MUC3OGES"
 } ]

@@ -172,13 +172,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:08:46.9092057Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JSKQNV3O.json", "documents/ref-object/JSKQNV3O.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JSKQNV3O",
   "exclusiveType" : "YYODPQDH"
@@ -269,37 +263,19 @@
 }, {
   "moduleType" : "datasource",
   "moduleName" : "mysql84",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:09:45.5539905Z",
-  "resourcePaths" : [ "documents/datasource/mysql84.json", "documents/datasource/mysql84.metadata.json", "documents/datasource/mysql84.refId.json", "documents/ref-object/O93W51F4.json", "documents/ref-object/O93W51F4.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "O93W51F4"
 }, {
   "moduleType" : "entity",
   "moduleName" : "mysql84",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:09:45.5539905Z",
-  "resourcePaths" : [ "documents/entity/mysql84", "documents/entity/mysql84/.f.metadata.json", "documents/entity/mysql84/.f.json", "documents/ref-object/EPDIBS2W.json", "documents/ref-object/EPDIBS2W.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "EPDIBS2W"
 }, {
   "moduleType" : "entity-relation",
   "moduleName" : "mysql84",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:09:45.5539905Z",
-  "resourcePaths" : [ "documents/entity-relation/mysql84", "documents/entity-relation/mysql84/.f.metadata.json", "documents/entity-relation/mysql84/.f.json", "documents/ref-object/NG6GEMCC.json", "documents/ref-object/NG6GEMCC.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "NG6GEMCC"
 } ]

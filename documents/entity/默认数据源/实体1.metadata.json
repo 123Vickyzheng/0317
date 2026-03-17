@@ -1,0 +1,58 @@
+{
+  "id" : "JSKQNV3O",
+  "dataSourceId" : "YYODPQDH",
+  "tableName" : "实体1",
+  "name" : "实体1",
+  "columns" : [ {
+    "id" : "RZN0VCC8",
+    "columnName" : "id",
+    "name" : "id",
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "isPrimaryKey" : true,
+    "isBuiltIn" : true,
+    "columnKind" : "physical",
+    "isAutoIncrement" : true
+  }, {
+    "id" : "ZJJE50PC",
+    "columnName" : "phx_created_at",
+    "name" : "创建时间",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : true,
+    "columnKind" : "physical"
+  }, {
+    "id" : "FC6E3A8I",
+    "columnName" : "phx_updated_at",
+    "name" : "更新时间",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : true,
+    "columnKind" : "physical"
+  }, {
+    "id" : "C1R6BCTU",
+    "columnName" : "phx_created_by",
+    "name" : "创建人",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : true,
+    "columnKind" : "physical"
+  }, {
+    "id" : "MISCXPKV",
+    "columnName" : "phx_updated_by",
+    "name" : "更新人",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "isPrimaryKey" : false,
+    "isBuiltIn" : true,
+    "columnKind" : "physical"
+  } ]
+}

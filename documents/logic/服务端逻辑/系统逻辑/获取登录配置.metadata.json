@@ -1,0 +1,14 @@
+{
+  "id" : "YRJFUM2A",
+  "name" : "获取登录配置",
+  "description" : "",
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "YQ11WG6J",
+    "name" : "config",
+    "dataType" : {
+      "typeId" : "Auto"
+    }
+  } ]
+}

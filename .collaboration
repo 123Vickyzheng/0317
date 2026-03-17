@@ -172,13 +172,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:12:24.8459011Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JSKQNV3O.json", "documents/ref-object/JSKQNV3O.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JSKQNV3O",
   "exclusiveType" : "YYODPQDH"
@@ -221,13 +215,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:52:02.5178581Z",
-  "resourcePaths" : [ "documents/page/PC/页面1.json", "documents/page/PC/页面1.metadata.json", "documents/page/PC/页面1.refId.json", "documents/ref-object/EMG097M6.json", "documents/ref-object/EMG097M6.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "EMG097M6"
 }, {
@@ -311,49 +299,25 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面2new",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:16:02.0937323Z",
-  "resourcePaths" : [ "documents/page/PC/页面2new.json", "documents/page/PC/页面2new.metadata.json", "documents/page/PC/页面2new.refId.json", "documents/ref-object/AJOL41LJ.json", "documents/ref-object/AJOL41LJ.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "AJOL41LJ"
 }, {
   "moduleType" : "entity",
   "moduleName" : "sqlserver1/0317_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:16:36.3823517Z",
-  "resourcePaths" : [ "documents/entity/sqlserver1/0317_1.json", "documents/entity/sqlserver1/0317_1.metadata.json", "documents/entity/sqlserver1/0317_1.refId.json", "documents/ref-object/ODAMCUFF.json", "documents/ref-object/ODAMCUFF.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "ODAMCUFF"
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/页面/页面1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:29:47.5860071Z",
-  "resourcePaths" : [ "documents/page/移动端/页面/页面1.json", "documents/page/移动端/页面/页面1.metadata.json", "documents/page/移动端/页面/页面1.refId.json", "documents/ref-object/RBL0WMAM.json", "documents/ref-object/RBL0WMAM.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "RBL0WMAM"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/逻辑2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:31:14.0329282Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑2.json", "documents/logic/服务端逻辑/逻辑2.metadata.json", "documents/logic/服务端逻辑/逻辑2.refId.json", "documents/ref-object/MR3SUCOW.json", "documents/ref-object/MR3SUCOW.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "MR3SUCOW"
 } ]

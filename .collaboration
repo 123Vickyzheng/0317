@@ -314,4 +314,16 @@
   "resourcePaths" : [ "documents/page/PC/页面2new.json", "documents/page/PC/页面2new.metadata.json", "documents/page/PC/页面2new.refId.json", "documents/ref-object/AJOL41LJ.json", "documents/ref-object/AJOL41LJ.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "AJOL41LJ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "sqlserver1/0317_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T08:16:36.3823517Z",
+  "resourcePaths" : [ "documents/entity/sqlserver1/0317_1.json", "documents/entity/sqlserver1/0317_1.metadata.json", "documents/entity/sqlserver1/0317_1.refId.json", "documents/ref-object/ODAMCUFF.json", "documents/ref-object/ODAMCUFF.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "ODAMCUFF"
 } ]

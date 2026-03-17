@@ -172,13 +172,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:26:10.3434766Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JSKQNV3O.json", "documents/ref-object/JSKQNV3O.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JSKQNV3O",
   "exclusiveType" : "YYODPQDH"
@@ -191,13 +185,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T10:42:16.4591667Z",
-  "resourcePaths" : [ "documents/page/PC", "documents/page/PC/.f.metadata.json", "documents/page/PC/.f.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "N6JOD5VY"
 }, {
@@ -335,39 +323,21 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体2",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:26:10.3434766Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体2.json", "documents/entity/默认数据源/实体2.metadata.json", "documents/entity/默认数据源/实体2.refId.json", "documents/ref-object/YYODPQDH.json", "documents/ref-object/YYODPQDH.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "H6XVEQT0",
   "exclusiveType" : "YYODPQDH"
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体3",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:26:10.3434766Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体3.json", "documents/entity/默认数据源/实体3.metadata.json", "documents/entity/默认数据源/实体3.refId.json", "documents/ref-object/YYODPQDH.json", "documents/ref-object/YYODPQDH.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "RNB1UOA8",
   "exclusiveType" : "YYODPQDH"
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体4",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:26:10.3434766Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体4.json", "documents/entity/默认数据源/实体4.metadata.json", "documents/entity/默认数据源/实体4.refId.json", "documents/ref-object/YYODPQDH.json", "documents/ref-object/YYODPQDH.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "FR761FQA",
   "exclusiveType" : "YYODPQDH"
@@ -404,109 +374,55 @@
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/0317_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1", "documents/logic/服务端逻辑/0317_1/.f.metadata.json", "documents/logic/服务端逻辑/0317_1/.f.json", "documents/ref-object/PW5FCTF1.json", "documents/ref-object/PW5FCTF1.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "PW5FCTF1"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/0317_1/创建0317_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/创建0317_1.json", "documents/logic/服务端逻辑/0317_1/创建0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/创建0317_1.refId.json", "documents/ref-object/JOIE8FG4.json", "documents/ref-object/JOIE8FG4.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JOIE8FG4"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/0317_1/创建或更改0317_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/创建或更改0317_1.json", "documents/logic/服务端逻辑/0317_1/创建或更改0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/创建或更改0317_1.refId.json", "documents/ref-object/P08JXWVI.json", "documents/ref-object/P08JXWVI.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "P08JXWVI"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/0317_1/更改0317_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/更改0317_1.json", "documents/logic/服务端逻辑/0317_1/更改0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/更改0317_1.refId.json", "documents/ref-object/O8OWNEDY.json", "documents/ref-object/O8OWNEDY.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "O8OWNEDY"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/0317_1/删除0317_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/删除0317_1.json", "documents/logic/服务端逻辑/0317_1/删除0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/删除0317_1.refId.json", "documents/ref-object/JXXAR33P.json", "documents/ref-object/JXXAR33P.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JXXAR33P"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/0317_1/查询0317_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/查询0317_1.json", "documents/logic/服务端逻辑/0317_1/查询0317_1.metadata.json", "documents/logic/服务端逻辑/0317_1/查询0317_1.refId.json", "documents/ref-object/Z09FW3C3.json", "documents/ref-object/Z09FW3C3.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "Z09FW3C3"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/0317_1/查询0317_1详情",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T09:30:50.5502808Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/0317_1/查询0317_1详情.json", "documents/logic/服务端逻辑/0317_1/查询0317_1详情.metadata.json", "documents/logic/服务端逻辑/0317_1/查询0317_1详情.refId.json", "documents/ref-object/X0HVTST4.json", "documents/ref-object/X0HVTST4.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "X0HVTST4"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/test",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T10:44:07.4735837Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/test.json", "documents/logic/服务端逻辑/test.metadata.json", "documents/logic/服务端逻辑/test.refId.json", "documents/ref-object/MUC3OGES.json", "documents/ref-object/MUC3OGES.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "MUC3OGES"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/tttttttttttttttt",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T10:49:15.8278903Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/tttttttttttttttt.json", "documents/logic/服务端逻辑/tttttttttttttttt.metadata.json", "documents/logic/服务端逻辑/tttttttttttttttt.refId.json", "documents/ref-object/VG46YVXI.json", "documents/ref-object/VG46YVXI.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "VG46YVXI"
 } ]

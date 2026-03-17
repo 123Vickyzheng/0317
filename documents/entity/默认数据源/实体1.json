@@ -1,9 +1,8 @@
 {
-  "type" : "entityModel",
   "id" : "JSKQNV3O",
-  "name" : "实体1",
-  "tableName" : "实体1",
   "dataSourceId" : "YYODPQDH",
+  "tableName" : "实体1",
+  "name" : "实体1",
   "columns" : [ {
     "type" : "entityColumnModel",
     "id" : "RZN0VCC8",
@@ -13,14 +12,50 @@
       "typeId" : "Integer"
     },
     "dbType" : "INTEGER",
-    "jdbcType" : 4,
     "width" : 100,
     "isPrimaryKey" : true,
     "isRequired" : true,
     "isBuiltIn" : true,
     "isAutoIncrement" : true,
-    "defaultValue" : 0,
+    "defaultValue" : null,
     "isUnique" : true,
+    "columnKind" : "physical",
+    "precision" : 2000000000,
+    "scale" : 0,
+    "columnLength" : 2000000000
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "WY8Q6ITY",
+    "columnName" : "字段1",
+    "name" : "字段1",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "width" : 100,
+    "isRequired" : false,
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "isUnique" : false,
+    "isAutoIncrement" : false,
+    "columnKind" : "physical"
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "SFVUIMRC",
+    "columnName" : "Decimal",
+    "name" : "Decimal",
+    "dataType" : {
+      "typeId" : "Decimal"
+    },
+    "dbType" : "REAL",
+    "jdbcType" : 8,
+    "width" : 100,
+    "isRequired" : false,
+    "isPrimaryKey" : false,
+    "isBuiltIn" : false,
+    "isUnique" : false,
+    "isAutoIncrement" : false,
     "columnKind" : "physical"
   }, {
     "type" : "entityColumnModel",
@@ -31,14 +66,17 @@
       "typeId" : "DateTime"
     },
     "dbType" : "TEXT",
-    "jdbcType" : 2014,
     "width" : 180,
     "isPrimaryKey" : false,
     "isRequired" : true,
     "isBuiltIn" : true,
     "defaultValue" : "NOW",
     "isUnique" : false,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false,
+    "precision" : 2000000000,
+    "scale" : 0,
+    "columnLength" : 2000000000
   }, {
     "type" : "entityColumnModel",
     "id" : "FC6E3A8I",
@@ -48,14 +86,17 @@
       "typeId" : "DateTime"
     },
     "dbType" : "TEXT",
-    "jdbcType" : 2014,
     "width" : 180,
     "isPrimaryKey" : false,
     "isRequired" : true,
     "isBuiltIn" : true,
     "defaultValue" : "NOW",
     "isUnique" : false,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false,
+    "precision" : 2000000000,
+    "scale" : 0,
+    "columnLength" : 2000000000
   }, {
     "type" : "entityColumnModel",
     "id" : "C1R6BCTU",
@@ -65,14 +106,17 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "width" : 100,
     "isPrimaryKey" : false,
     "isRequired" : false,
     "isBuiltIn" : true,
-    "defaultValue" : "",
+    "defaultValue" : null,
     "isUnique" : false,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false,
+    "precision" : 2000000000,
+    "scale" : 0,
+    "columnLength" : 2000000000
   }, {
     "type" : "entityColumnModel",
     "id" : "MISCXPKV",
@@ -82,15 +126,21 @@
       "typeId" : "String"
     },
     "dbType" : "TEXT",
-    "jdbcType" : -1,
     "width" : 100,
     "isPrimaryKey" : false,
     "isRequired" : false,
     "isBuiltIn" : true,
-    "defaultValue" : "",
+    "defaultValue" : null,
     "isUnique" : false,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "isAutoIncrement" : false,
+    "precision" : 2000000000,
+    "scale" : 0,
+    "columnLength" : 2000000000
   } ],
+  "type" : "entityModel",
+  "columnExtensionLoaded" : true,
+  "originalPath" : "/默认数据源/实体1",
   "indexes" : [ {
     "indexName" : "sqlite_autoindex_实体1_1",
     "isUnique" : true,
@@ -101,6 +151,5 @@
       "columnId" : "RZN0VCC8",
       "order" : "ASC"
     } ]
-  } ],
-  "columnExtensionLoaded" : true
+  } ]
 }

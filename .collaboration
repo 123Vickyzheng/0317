@@ -326,4 +326,17 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "MR3SUCOW"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "默认数据源/实体2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:03:51.9055868Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体2.json", "documents/entity/默认数据源/实体2.metadata.json", "documents/entity/默认数据源/实体2.refId.json", "documents/ref-object/H6XVEQT0.json", "documents/ref-object/H6XVEQT0.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "H6XVEQT0",
+  "exclusiveType" : "YYODPQDH"
 } ]

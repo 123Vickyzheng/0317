@@ -352,4 +352,17 @@
   "resourceType" : "Document",
   "resourceId" : "RNB1UOA8",
   "exclusiveType" : "YYODPQDH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "默认数据源/实体4",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:04:08.5261738Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体4.json", "documents/entity/默认数据源/实体4.metadata.json", "documents/entity/默认数据源/实体4.refId.json", "documents/ref-object/FR761FQA.json", "documents/ref-object/FR761FQA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "FR761FQA",
+  "exclusiveType" : "YYODPQDH"
 } ]

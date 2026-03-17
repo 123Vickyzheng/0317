@@ -338,4 +338,16 @@
   "resourcePaths" : [ "documents/page/移动端/页面/页面1.json", "documents/page/移动端/页面/页面1.metadata.json", "documents/page/移动端/页面/页面1.refId.json", "documents/ref-object/RBL0WMAM.json", "documents/ref-object/RBL0WMAM.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "RBL0WMAM"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/逻辑2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T08:31:14.0329282Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑2.json", "documents/logic/服务端逻辑/逻辑2.metadata.json", "documents/logic/服务端逻辑/逻辑2.refId.json", "documents/ref-object/MR3SUCOW.json", "documents/ref-object/MR3SUCOW.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MR3SUCOW"
 } ]

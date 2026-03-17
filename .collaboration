@@ -497,4 +497,16 @@
   "resourcePaths" : [ "documents/logic/服务端逻辑/test.json", "documents/logic/服务端逻辑/test.metadata.json", "documents/logic/服务端逻辑/test.refId.json", "documents/ref-object/MUC3OGES.json", "documents/ref-object/MUC3OGES.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "MUC3OGES"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/tttttttttttttttt",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T10:49:15.8278903Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/tttttttttttttttt.json", "documents/logic/服务端逻辑/tttttttttttttttt.metadata.json", "documents/logic/服务端逻辑/tttttttttttttttt.refId.json", "documents/ref-object/VG46YVXI.json", "documents/ref-object/VG46YVXI.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "VG46YVXI"
 } ]

@@ -221,7 +221,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面1",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T08:52:02.5178581Z",
+  "resourcePaths" : [ "documents/page/PC/页面1.json", "documents/page/PC/页面1.metadata.json", "documents/page/PC/页面1.refId.json", "documents/ref-object/EMG097M6.json", "documents/ref-object/EMG097M6.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "EMG097M6"
 }, {

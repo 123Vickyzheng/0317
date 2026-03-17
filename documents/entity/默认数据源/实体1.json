@@ -39,7 +39,11 @@
     "isBuiltIn" : false,
     "isUnique" : false,
     "isAutoIncrement" : false,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "precision" : 2000000000,
+    "scale" : 0,
+    "columnLength" : 2000000000,
+    "defaultValue" : null
   }, {
     "type" : "entityColumnModel",
     "id" : "SFVUIMRC",

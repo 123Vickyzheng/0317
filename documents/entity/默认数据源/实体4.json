@@ -1,0 +1,106 @@
+{
+  "type" : "entityModel",
+  "id" : "FR761FQA",
+  "name" : "实体4",
+  "tableName" : "实体4",
+  "dataSourceId" : "YYODPQDH",
+  "columns" : [ {
+    "type" : "entityColumnModel",
+    "id" : "BWA4KA0U",
+    "columnName" : "id",
+    "name" : "id",
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "dbType" : "INTEGER",
+    "jdbcType" : 4,
+    "width" : 100,
+    "isPrimaryKey" : true,
+    "isRequired" : true,
+    "isBuiltIn" : true,
+    "isAutoIncrement" : true,
+    "defaultValue" : 0,
+    "isUnique" : true,
+    "columnKind" : "physical"
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "FX1UHJFO",
+    "columnName" : "phx_created_at",
+    "name" : "创建时间",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : 2014,
+    "width" : 180,
+    "isPrimaryKey" : false,
+    "isRequired" : true,
+    "isBuiltIn" : true,
+    "defaultValue" : "NOW",
+    "isUnique" : false,
+    "columnKind" : "physical"
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "H4I3PEXD",
+    "columnName" : "phx_updated_at",
+    "name" : "更新时间",
+    "dataType" : {
+      "typeId" : "DateTime"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : 2014,
+    "width" : 180,
+    "isPrimaryKey" : false,
+    "isRequired" : true,
+    "isBuiltIn" : true,
+    "defaultValue" : "NOW",
+    "isUnique" : false,
+    "columnKind" : "physical"
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "UKI8B14J",
+    "columnName" : "phx_created_by",
+    "name" : "创建人",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "width" : 100,
+    "isPrimaryKey" : false,
+    "isRequired" : false,
+    "isBuiltIn" : true,
+    "defaultValue" : "",
+    "isUnique" : false,
+    "columnKind" : "physical"
+  }, {
+    "type" : "entityColumnModel",
+    "id" : "VKP7Z4R3",
+    "columnName" : "phx_updated_by",
+    "name" : "更新人",
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "dbType" : "TEXT",
+    "jdbcType" : -1,
+    "width" : 100,
+    "isPrimaryKey" : false,
+    "isRequired" : false,
+    "isBuiltIn" : true,
+    "defaultValue" : "",
+    "isUnique" : false,
+    "columnKind" : "physical"
+  } ],
+  "indexes" : [ {
+    "indexName" : "sqlite_autoindex_实体4_1",
+    "isUnique" : true,
+    "isPrimary" : true,
+    "isUnEditable" : true,
+    "description" : "主键索引",
+    "indexColumns" : [ {
+      "columnId" : "BWA4KA0U",
+      "order" : "ASC"
+    } ]
+  } ],
+  "columnExtensionLoaded" : true
+}

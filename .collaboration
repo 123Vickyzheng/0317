@@ -284,4 +284,40 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "NG6GEMCC"
+}, {
+  "moduleType" : "datasource",
+  "moduleName" : "sqlserver1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T08:11:14.3330083Z",
+  "resourcePaths" : [ "documents/datasource/sqlserver1.json", "documents/datasource/sqlserver1.metadata.json", "documents/datasource/sqlserver1.refId.json", "documents/ref-object/Z7Y83Z25.json", "documents/ref-object/Z7Y83Z25.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Z7Y83Z25"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "sqlserver1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T08:11:14.3330083Z",
+  "resourcePaths" : [ "documents/entity/sqlserver1", "documents/entity/sqlserver1/.f.metadata.json", "documents/entity/sqlserver1/.f.json", "documents/ref-object/IHKPLJMI.json", "documents/ref-object/IHKPLJMI.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "IHKPLJMI"
+}, {
+  "moduleType" : "entity-relation",
+  "moduleName" : "sqlserver1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T08:11:14.3330083Z",
+  "resourcePaths" : [ "documents/entity-relation/sqlserver1", "documents/entity-relation/sqlserver1/.f.metadata.json", "documents/entity-relation/sqlserver1/.f.json", "documents/ref-object/KQSAYGBG.json", "documents/ref-object/KQSAYGBG.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "KQSAYGBG"
 } ]

@@ -172,7 +172,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:02:49.1869632Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JSKQNV3O.json", "documents/ref-object/JSKQNV3O.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "JSKQNV3O",
   "exclusiveType" : "YYODPQDH"

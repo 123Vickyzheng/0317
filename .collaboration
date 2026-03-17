@@ -413,4 +413,16 @@
   "resourcePaths" : [ "documents/entity-relation/默认数据源/new.json", "documents/entity-relation/默认数据源/new.metadata.json", "documents/entity-relation/默认数据源/new.refId.json", "documents/ref-object/LR4Q0EHH.json", "documents/ref-object/LR4Q0EHH.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "LR4Q0EHH"
+}, {
+  "moduleType" : "entity-relation",
+  "moduleName" : "默认数据源/实体3_id_实体4_id",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:11:37.3537283Z",
+  "resourcePaths" : [ "documents/entity-relation/默认数据源/实体3_id_实体4_id.json", "documents/entity-relation/默认数据源/实体3_id_实体4_id.metadata.json", "documents/entity-relation/默认数据源/实体3_id_实体4_id.refId.json", "documents/ref-object/ZRMQGCIK.json", "documents/ref-object/ZRMQGCIK.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "ZRMQGCIK"
 } ]

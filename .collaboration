@@ -425,4 +425,16 @@
   "resourcePaths" : [ "documents/entity-relation/默认数据源/实体3_id_实体4_id.json", "documents/entity-relation/默认数据源/实体3_id_实体4_id.metadata.json", "documents/entity-relation/默认数据源/实体3_id_实体4_id.refId.json", "documents/ref-object/ZRMQGCIK.json", "documents/ref-object/ZRMQGCIK.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "ZRMQGCIK"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "mysql84/实体1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:25:22.1140161Z",
+  "resourcePaths" : [ "documents/entity/mysql84/实体1.json", "documents/entity/mysql84/实体1.metadata.json", "documents/entity/mysql84/实体1.refId.json", "documents/ref-object/R554E8IS.json", "documents/ref-object/R554E8IS.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "R554E8IS"
 } ]

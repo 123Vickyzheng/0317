@@ -304,14 +304,14 @@
   "resourceId" : "KQSAYGBG"
 }, {
   "moduleType" : "page",
-  "moduleName" : "PC/页面2",
+  "moduleName" : "PC/页面2new",
   "state" : "New",
   "lockedBy" : {
     "username" : "vickyzheng",
     "email" : "vicky.zheng@developertools.com"
   },
-  "lockDateTime" : "2026-03-17T08:15:48.866346Z",
-  "resourcePaths" : [ "documents/page/PC/页面2.json", "documents/page/PC/页面2.metadata.json", "documents/page/PC/页面2.refId.json", "documents/ref-object/AJOL41LJ.json", "documents/ref-object/AJOL41LJ.metadata.json" ],
+  "lockDateTime" : "2026-03-17T08:16:02.0937323Z",
+  "resourcePaths" : [ "documents/page/PC/页面2new.json", "documents/page/PC/页面2new.metadata.json", "documents/page/PC/页面2new.refId.json", "documents/ref-object/AJOL41LJ.json", "documents/ref-object/AJOL41LJ.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "AJOL41LJ"
 } ]

@@ -326,4 +326,16 @@
   "resourcePaths" : [ "documents/entity/sqlserver1/0317_1.json", "documents/entity/sqlserver1/0317_1.metadata.json", "documents/entity/sqlserver1/0317_1.refId.json", "documents/ref-object/ODAMCUFF.json", "documents/ref-object/ODAMCUFF.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "ODAMCUFF"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "移动端/页面/页面1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T08:29:47.5860071Z",
+  "resourcePaths" : [ "documents/page/移动端/页面/页面1.json", "documents/page/移动端/页面/页面1.metadata.json", "documents/page/移动端/页面/页面1.refId.json", "documents/ref-object/RBL0WMAM.json", "documents/ref-object/RBL0WMAM.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "RBL0WMAM"
 } ]

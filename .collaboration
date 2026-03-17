@@ -365,4 +365,16 @@
   "resourceType" : "Document",
   "resourceId" : "FR761FQA",
   "exclusiveType" : "YYODPQDH"
+}, {
+  "moduleType" : "type",
+  "moduleName" : "数据结构/数据结构1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:08:12.4010846Z",
+  "resourcePaths" : [ "documents/type/数据结构/数据结构1.json", "documents/type/数据结构/数据结构1.metadata.json", "documents/type/数据结构/数据结构1.refId.json", "documents/ref-object/TIQGNT02.json", "documents/ref-object/TIQGNT02.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "TIQGNT02"
 } ]

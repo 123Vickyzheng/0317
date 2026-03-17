@@ -377,4 +377,16 @@
   "resourcePaths" : [ "documents/type/数据结构/数据结构1.json", "documents/type/数据结构/数据结构1.metadata.json", "documents/type/数据结构/数据结构1.refId.json", "documents/ref-object/TIQGNT02.json", "documents/ref-object/TIQGNT02.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "TIQGNT02"
+}, {
+  "moduleType" : "global-variable",
+  "moduleName" : "服务端全局变量/aaa",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T09:09:11.3433694Z",
+  "resourcePaths" : [ "documents/global-variable/服务端全局变量/aaa", "documents/global-variable/服务端全局变量/aaa/.f.metadata.json", "documents/global-variable/服务端全局变量/aaa/.f.json", "documents/ref-object/XIKBKSC4.json", "documents/ref-object/XIKBKSC4.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "XIKBKSC4"
 } ]

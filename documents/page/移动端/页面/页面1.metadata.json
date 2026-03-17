@@ -1,10 +1,10 @@
 {
-  "id" : "EMG097M6",
+  "id" : "RBL0WMAM",
   "name" : "页面1",
   "resourceType" : "page",
   "description" : "",
   "variables" : [ {
-    "id" : "GJE4K0IT",
+    "id" : "QRMKDUN4",
     "name" : "变量1",
     "defaultValue" : {
       "type" : "literal"
@@ -17,19 +17,8 @@
     },
     "description" : ""
   }, {
-    "id" : "J4OCZKNG",
+    "id" : "IJL7YGOY",
     "name" : "变量2",
-    "defaultValue" : {
-      "type" : "literal",
-      "literal" : 1
-    },
-    "dataType" : {
-      "typeId" : "Integer"
-    },
-    "description" : ""
-  }, {
-    "id" : "B3INEGHN",
-    "name" : "变量3",
     "defaultValue" : {
       "type" : "literal"
     },
@@ -38,18 +27,45 @@
     },
     "description" : ""
   }, {
-    "id" : "J4E7L1E4",
+    "id" : "SPVTHL1B",
+    "name" : "变量3",
+    "defaultValue" : {
+      "type" : "literal"
+    },
+    "dataType" : {
+      "typeId" : "Integer"
+    },
+    "description" : ""
+  }, {
+    "id" : "XB9MVJU0",
     "name" : "变量4",
     "defaultValue" : {
       "type" : "literal"
     },
     "dataType" : {
-      "typeId" : "String"
+      "typeId" : "ODAMCUFF"
+    },
+    "description" : ""
+  }, {
+    "id" : "YMNHHBCY",
+    "name" : "变量5",
+    "defaultValue" : {
+      "type" : "literal"
+    },
+    "dataType" : {
+      "typeId" : "ODAMCUFF"
     },
     "description" : ""
   } ],
   "logics" : [ ],
-  "eventListeners" : [ ],
+  "eventListeners" : [ {
+    "id" : "DIE0CWX8",
+    "name" : "页面加载前1",
+    "variables" : [ ],
+    "parameters" : [ ],
+    "returnValues" : [ ],
+    "targetEvent" : "enter"
+  } ],
   "elementEventListeners" : [ ],
-  "platform" : "pc"
+  "platform" : "mobile"
 }

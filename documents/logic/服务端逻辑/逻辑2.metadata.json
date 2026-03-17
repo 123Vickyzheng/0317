@@ -1,0 +1,21 @@
+{
+  "id" : "MR3SUCOW",
+  "name" : "逻辑2",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "ALRRXGLP",
+    "name" : "变量1",
+    "dataType" : {
+      "typeId" : "List",
+      "genericTypes" : [ {
+        "typeId" : "ODAMCUFF"
+      } ]
+    },
+    "defaultValue" : {
+      "type" : "literal"
+    }
+  } ]
+}

@@ -1,0 +1,11 @@
+{
+  "id" : "AJOL41LJ",
+  "name" : "页面2new",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "pc"
+}

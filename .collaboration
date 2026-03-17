@@ -172,13 +172,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T06:13:02.1823964Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/JSKQNV3O.json", "documents/ref-object/JSKQNV3O.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JSKQNV3O",
   "exclusiveType" : "YYODPQDH"
@@ -251,37 +245,19 @@
 }, {
   "moduleType" : "datasource",
   "moduleName" : "sqlserver",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:07:55.388628Z",
-  "resourcePaths" : [ "documents/datasource/sqlserver.json", "documents/datasource/sqlserver.metadata.json", "documents/datasource/sqlserver.refId.json", "documents/ref-object/D65YZG18.json", "documents/ref-object/D65YZG18.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "D65YZG18"
 }, {
   "moduleType" : "entity",
   "moduleName" : "sqlserver",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:07:55.388628Z",
-  "resourcePaths" : [ "documents/entity/sqlserver", "documents/entity/sqlserver/.f.metadata.json", "documents/entity/sqlserver/.f.json", "documents/ref-object/T1LGCXQ8.json", "documents/ref-object/T1LGCXQ8.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "T1LGCXQ8"
 }, {
   "moduleType" : "entity-relation",
   "moduleName" : "sqlserver",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-17T08:07:55.388628Z",
-  "resourcePaths" : [ "documents/entity-relation/sqlserver", "documents/entity-relation/sqlserver/.f.metadata.json", "documents/entity-relation/sqlserver/.f.json", "documents/ref-object/L0TUK7VQ.json", "documents/ref-object/L0TUK7VQ.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "L0TUK7VQ"
 } ]
